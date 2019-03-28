@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "61720466649",
+    "firebase_url": "https://fir-admin-2c63f.firebaseio.com",
+    "project_id": "fir-admin-2c63f",
+    "storage_bucket": "fir-admin-2c63f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61720466649:android:9e3dc063cea4b1da",
+        "android_client_info": {
+          "package_name": "com.firebaseadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61720466649-g0l7i2h01ae8ck9uk5v4ocpn8rvvnl30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnVbIOiwKNAyX9zcOWiLftx6XICG9p9YU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
