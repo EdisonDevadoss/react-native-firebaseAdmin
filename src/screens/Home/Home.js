@@ -13,8 +13,14 @@ const HomeScreen = props => {
           justifyContent: "space-between"
         }}
       >
-        <Button title="Signin" />
-        <Button title="Admin" />
+        <Button
+          title="Signin"
+          onPress={() => props.navigation.navigate("Signin")}
+        />
+        <Button
+          title="Admin"
+          onPress={() => props.navigation.navigate("Admin")}
+        />
       </View>
     </View>
   );
